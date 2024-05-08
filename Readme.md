@@ -11,12 +11,15 @@
 Before you begin, ensure you have the following installed:
 Node.js 
 Any text editor for code (e.g., VSCode, Sublime Text)
-Setup
+
+
+## How to run the Project
 To run this project, install it locally using npm:
 
 git clone https://your-repository-url
 cd your-project-directory
 npm install
+node generateIDPDF.js
 
 ## Usage
 1. Prepare your employee_data.csv with columns for name, title, and photo (location of ID photo).
